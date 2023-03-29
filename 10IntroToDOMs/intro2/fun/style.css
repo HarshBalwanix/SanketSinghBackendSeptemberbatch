@@ -1,0 +1,23 @@
+body{
+    font-family: system-ui;
+    text-align: center;
+    background-color: blanchedalmond;
+    margin-bottom: 50px;
+    color: black;
+}
+ul{
+    border: 2px solid black;
+    margin: 30px;
+    padding: 30px;
+}
+div
+{
+    width: 80%;
+    margin: auto;
+}
+button{
+    height: 40px;
+    width: 70px;
+    border-radius: 5px;
+    background-color: chartreuse;
+}

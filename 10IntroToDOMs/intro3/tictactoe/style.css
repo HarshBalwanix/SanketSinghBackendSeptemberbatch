@@ -1,0 +1,37 @@
+body{
+    font-family: system-ui;
+    text-align: center;
+    background-color: blanchedalmond;
+    margin-bottom: 50px;
+    color: black;
+}
+ul{
+    border: 2px solid black;
+    margin: 30px;
+    padding: 30px;
+}
+div
+{
+    width: 80%;
+    margin: auto;
+}
+button{
+    height: 40px;
+    width: 70px;
+    border-radius: 5px;
+    background-color: chartreuse;
+}
+table td{
+    border: 3px solid black;
+    margin: 0px;
+    height: 100px;
+    width: 100px;
+    font-size: 4em;
+    padding: 0px;
+    text-align: center;
+}
+#container{
+    margin: 40px auto;
+    display: flex;
+    justify-content: center;
+}
